@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://kaneez98fatima.github.io/hello_microverse/)
+[Live Demo Link](https://kaneez98fatima.github.io/hello_mcroverse/)
 
 
 ## Getting Started
